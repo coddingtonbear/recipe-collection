@@ -1,11 +1,11 @@
 ---
-title: My book title
-author: Daniel Herzog
-rights: MIT License
+title: Recipes
+author: Adam Coddington
+#rights: MIT License
 lang: en-US
-tags: [pandoc, book, my-book, etc]
-abstract: |
-  Your summary.
+tags: [pandoc, recipes]
+#abstract: |
+#    These are recipes I use 
 mainfont: DejaVu Sans
 
 # Filter preferences:

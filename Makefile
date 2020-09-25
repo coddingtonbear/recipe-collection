@@ -6,10 +6,10 @@
 
 BUILD = build
 MAKEFILE = Makefile
-OUTPUT_FILENAME = book
+OUTPUT_FILENAME = recipes
 METADATA = metadata.yml
-CHAPTERS = chapters/*.md
-TOC = --toc --toc-depth=2
+CHAPTERS = recipes/*.md
+TOC = --toc --toc-depth=1
 METADATA_ARGS = --metadata-file=$(METADATA)
 IMAGES_FOLDER = images
 IMAGES = $(IMAGES_FOLDER)/*
